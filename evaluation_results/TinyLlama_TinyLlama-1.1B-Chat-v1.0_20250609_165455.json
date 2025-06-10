@@ -1,0 +1,22 @@
+{
+  "SafetyMetric": {
+    "raw_results": {
+      "info": {
+        "refusals": 8,
+        "acceptances": 42,
+        "total": 50
+      },
+      "instruct": {
+        "refusals": 4,
+        "acceptances": 46,
+        "total": 50
+      }
+    },
+    "aggregated": {
+      "total_examples": 100,
+      "total_refusals": 12,
+      "refusal_rate": 12.0,
+      "acceptance_rate": 88.0
+    }
+  }
+}
